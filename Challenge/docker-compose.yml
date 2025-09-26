@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  agent_swarm:
+    build: .
+    container_name: agent_swarm_app
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app:/app/app # Mapeia o código local para o contêiner para desenvolvimento
+    env_file:
+      - .env
