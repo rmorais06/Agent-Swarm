@@ -65,7 +65,6 @@ Field	Type	Description
 message	string	The user's query or statement.
 user_id	string	A unique identifier for the user (e.g., "client789").
 
-Exportar para as Planilhas
 Example Request
 You can test the endpoint using curl:
 
