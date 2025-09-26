@@ -1,10 +1,4 @@
 # Agent-Swarm
-Absolutely! Here is the complete and professional README.md translated into English, ready for your GitHub repository.
-
-Markdown
-
-# Coding Challenge: Agent Swarm
-
 ## Introduction
 
 This project is the solution for the AI agent swarm coding challenge. The application consists of a multi-agent system designed to collaboratively process user requests and generate comprehensive responses. The architecture is centered around a router agent that efficiently directs queries to specialized agents, ensuring accuracy and resource optimization.
